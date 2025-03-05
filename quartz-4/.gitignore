@@ -1,0 +1,10 @@
+# VS Code settings
+.vscode/
+
+# Obsidian workspace files
+.obsidian/workspace
+.obsidian/workspace.json
+
+# Other Obsidian files you may want to exclude
+.obsidian/*.json
+.obsidian/*.cache
